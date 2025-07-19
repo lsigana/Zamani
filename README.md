@@ -68,7 +68,7 @@ Zamani could expand into:
 
 ## 📸 Live Preview
 
-> *(Optional: Add link here if you decide to host it.)*
+> https://lsigana.github.io/Zamani/
 
 ---
 
